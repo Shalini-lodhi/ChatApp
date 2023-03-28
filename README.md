@@ -1,5 +1,12 @@
 # SignalR in Blazor
-Real-time chat with Blazor Server SignalR
+
+**Useful Links:**
+
+- SignalR Documentation: [Overview of ASP.NET Core SignalR | Microsoft Learn](https://learn.microsoft.com/en-gb/aspnet/core/signalr/introduction?WT.mc_id=dotnet-35129-website&view=aspnetcore-5.0)
+
+- SignalR package: [NuGet Gallery | Microsoft.AspNetCore.SignalR.Client 7.0.4](https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Client)
+
+### Real-time chat with Blazor Server SignalR
 
 1. **Create a Blazor Server App**
 2.  **Add a SignalR Hub**
