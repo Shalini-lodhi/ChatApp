@@ -1,7 +1,5 @@
 using ChatApp.Data;
 using ChatApp.Hubs;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.ResponseCompression;
 
 internal class Program
@@ -27,7 +25,6 @@ internal class Program
         {
             app.UseExceptionHandler("/Error");
         }
-
 
         app.UseStaticFiles();
 
