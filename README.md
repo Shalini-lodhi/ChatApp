@@ -1,5 +1,7 @@
 # SignalR in Blazor
 
+**SignalR** uses the concept of *Hub* on the `server side`—an in-memory object that all clients connect up to for real time communications. The *Hub* allows SignalR to send and receive messages across machine boundaries, thus allowing clients to call methods on the server and vice versa.
+
 **Useful Links:**
 
 - SignalR Documentation: [Overview of ASP.NET Core SignalR | Microsoft Learn](https://learn.microsoft.com/en-gb/aspnet/core/signalr/introduction?WT.mc_id=dotnet-35129-website&view=aspnetcore-5.0)
